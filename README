@@ -1,0 +1,8 @@
+A simplistic camera prefab that allows for a top-down view that can continuously pan based on a target, or pan based on a screen by screen basis. It comes with a custom inspector for those of you interested in the very basics of this process.
+
+## Download: [here](https://github.com/DavidBCL/Dev-Dash/blob/master/OverheadCamera.unitypackage?raw=true).
+## Usage:
+1. Drag and drop the "ColorPicker" prefab into your scene.
+2. Bring up the inspector for the ColorPicker.
+3. Set the "Loc X" and "Loc Y" variables to the coordinates you would like the Color Picker to appear on the screen.
+4. Add "hooks" to the Color Picker in your GUI code (see Demo Scene and GUIExample.cs on how to accomplish this)
